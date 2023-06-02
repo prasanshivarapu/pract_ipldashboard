@@ -1,0 +1,22 @@
+/* Write your CSS here */
+body {
+  margin: 0px;
+}
+
+.bgimg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-sm-bg.png');
+  background-size: cover;
+  min-height: 100vh;
+  padding: 35px;
+}
+.ipl {
+  color: white;
+  text-align: center;
+  padding-top: 35px;
+}
+.main1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}

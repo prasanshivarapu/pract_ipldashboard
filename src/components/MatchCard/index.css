@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.uni {
+  height: 300px;
+  width: 200px;
+  border: solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}

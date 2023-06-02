@@ -1,0 +1,46 @@
+.con {
+  background-color: #0f172a;
+  height: 300px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 95px;
+  border-width: 20px;
+  border-radius: 20px;
+  border: solid;
+  border-color: rgb(231, 160, 7);
+  border-width: 10px;
+}
+
+.one {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  list-style: none;
+  color: white;
+}
+.onee {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  list-style: none;
+  color: white;
+}
+.logo {
+  height: 155px;
+  text-align: center;
+}
+.p {
+  margin: 3px;
+}
+.img {
+  height: 55px;
+}
+
+.prop {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
